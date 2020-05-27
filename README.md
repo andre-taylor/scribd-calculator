@@ -55,7 +55,7 @@ At some point I lost track of what I was changing as I was having too much fun. 
 ## Bugs and followup review items
 - [ ] Fix the calculator screen so it auto scrolls to the right as you type
 - [ ] Cleanup how `previousValue`, `currentValue` and `screenValue` types are defined
-- [x] Add some snapshot test for components
+- [x] Add snapshot test for components
 - [ ] Add functional test for `Calculator.js` component
 - [ ] Rename `doMath()` function to something more professional (suggestion only)
 - [ ] Maybe refactor `buttonPressed` switch into a helper
