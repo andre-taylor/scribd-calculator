@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> renders correctly with a '*' switch value 1`] = `
+<button
+  className="button multiple"
+  type="button"
+  value="*"
+>
+  *
+</button>
+`;
+
+exports[`<Button /> renders correctly with a '+' switch value 1`] = `
+<button
+  className="button add"
+  type="button"
+  value="+"
+>
+  +
+</button>
+`;
+
+exports[`<Button /> renders correctly with a '/' switch value 1`] = `
+<button
+  className="button divide"
+  type="button"
+  value="/"
+>
+  /
+</button>
+`;
+
+exports[`<Button /> renders correctly with a '=' switch value 1`] = `
+<button
+  className="button calculate"
+  type="button"
+  value="="
+>
+  =
+</button>
+`;
+
+exports[`<Button /> renders correctly with a '-' switch value 1`] = `
+<button
+  className="button subtract"
+  type="button"
+  value="-"
+>
+  -
+</button>
+`;
+
+exports[`<Button /> renders correctly with a 'C' switch value 1`] = `
+<button
+  className="button clearScreen"
+  type="button"
+  value="C"
+>
+  C
+</button>
+`;
+
+exports[`<Button /> renders correctly with a default switch value 1`] = `
+<button
+  className="button key0"
+  type="button"
+  value="0"
+>
+  0
+</button>
+`;

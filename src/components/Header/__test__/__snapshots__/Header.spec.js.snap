@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders correctly with required props 1`] = `
+<h2
+  className="tradeMark"
+>
+  basic calculator
+  <sup>
+    ™
+  </sup>
+</h2>
+`;

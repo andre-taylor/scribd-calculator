@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Screen /> renders correctly with required props as a number 1`] = `
+<output
+  className="screen"
+>
+  1234
+</output>
+`;
+
+exports[`<Screen /> renders correctly with required props as a string 1`] = `
+<output
+  className="screen"
+>
+  1234
+</output>
+`;
